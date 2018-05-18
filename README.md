@@ -135,3 +135,8 @@ basic start django webserver with MTV(model template view)
                 },
             },
         ]
+
+##security (additional)
+change encyption from md5 to PBKDF2
+https://www.youtube.com/watch?v=k1gtQKUM36k
+    
